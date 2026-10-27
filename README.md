@@ -1,6 +1,8 @@
 # Clinical-LQF
 
-Model and training code for five-class diabetic retinopathy grading on DDR.
+This repository provides model code and a DDR-based training and evaluation
+example for five-class diabetic retinopathy grading. Requests for access to the
+raw clinical data used in the study can be submitted to the corresponding author.
 
 ## Files
 
